@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9304" started-at="2020-11-19T20:46:00 IST" finished-at="2020-11-19T20:46:10 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9304" started-at="2020-11-19T20:46:00 IST" finished-at="2020-11-19T20:46:10 IST">
+      <class name="com.Honeywell.Runner.BaseClass">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.Honeywell.Runner.BaseClass@7e2d773b]" name="setup" is-config="true" duration-ms="9293" started-at="2020-11-19T20:46:00 IST" finished-at="2020-11-19T20:46:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+      </class> <!-- com.Honeywell.Runner.BaseClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
